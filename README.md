@@ -1,5 +1,5 @@
 # python-turtle-graphics  
-a modest collection of drawings made with Python's Turtle module.  
+a modest collection of drawings made with Python's [Turtle](https://docs.python.org/3/library/turtle.html) module.  
 
 ## how to draw    
 to use the `turtle` module imported in each example's code, you must install [tkinter](https://docs.python.org/3/library/tkinter.html#module-tkinter).  
