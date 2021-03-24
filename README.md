@@ -9,7 +9,7 @@ one way to install tkinter:
 ``>>> tkinter._test()``
 * once you see a 'test' window like this, you know tkinter is displaying graphics properly.  
 <img src="tkinter.PNG" height="135">  
-from there, run the file and enjoy as the drawings take shape.
+from there, run a file and enjoy as the drawing takes shape.
 
 ## drawings
 <strong>[rainbow benzene](https://www.codium.co.in/2020/07/rainbow-benzene-tutorial-turtle-python.html)</strong>  
