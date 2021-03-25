@@ -1,5 +1,5 @@
 # python-turtle-graphics  
-a modest collection of drawings made with Python's Turtle module.  
+a modest collection of drawings made with Python's [Turtle](https://docs.python.org/3/library/turtle.html) module.  
 
 ## how to draw    
 to use the `turtle` module imported in each example's code, you must install [tkinter](https://docs.python.org/3/library/tkinter.html#module-tkinter).  
@@ -8,8 +8,8 @@ one way to install tkinter:
 ``>>> import tkinter``  
 ``>>> tkinter._test()``
 * once you see a 'test' window like this, you know tkinter is displaying graphics properly.  
-<img src="tkinter.PNG" height="135">
-* from there, run the file and enjoy the drawings take shape.
+<img src="tkinter.PNG" height="135">  
+from there, run a file and enjoy as the drawing takes shape.
 
 ## drawings
 <strong>[rainbow benzene](https://www.codium.co.in/2020/07/rainbow-benzene-tutorial-turtle-python.html)</strong>  
