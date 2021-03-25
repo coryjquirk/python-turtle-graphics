@@ -12,13 +12,13 @@ mandala = turtle.Turtle()
 window = turtle.Screen()
 
 # A random  name.
-turtle.title("Mandala")
+turtle.title("mandala")
 
 # Set a dark color for the background.
 turtle.bgcolor("black")
 
 # Set the fastest speed
-mandala.speed(0)
+mandala.speed(10)
 
 # Define the number of iterations
 n = 100
