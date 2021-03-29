@@ -1,25 +1,17 @@
 # https://github.com/ythecombinator/python-homework
 
 # Here we intend to create a simple different star which have two colors.
-
 # It should use the turtle module
 import turtle
-
 # Let's give it a name.
 mandala = turtle.Turtle()
-
-# We'll use this to exitonclick().
-window = turtle.Screen()
-
 # A random  name.
 turtle.title("mandala")
-
 # Set a dark color for the background.
 turtle.bgcolor("black")
-
 # Set the fastest speed
 mandala.speed(10)
-
+mandala.hideturtle()
 # Define the number of iterations
 n = 100
 
@@ -33,20 +25,21 @@ def drawMandala(n):
       turtle.left(90)
       turtle.penup()
       turtle.forward (30)
-      turtle.left (90)
+      turtle.left (110)
       turtle.pendown()
-      turtle.pencolor ("#27ae60")
-      turtle.forward (60)
-      turtle.pencolor("#d35400")
+      turtle.pencolor ("#c874ff")
+      turtle.forward (120)
+      turtle.pencolor("#74ffc8")
       turtle.right (70)
       turtle.forward (70)
       turtle.right (40)
       turtle.forward (50)
-      turtle.pencolor ("#c0392b")
-      turtle.left (90)
+      turtle.pensize(1)
+      turtle.pencolor ("#abff74")
+      turtle.left (60)
       turtle.pensize(5)
       turtle.forward (100)
-      turtle.pencolor("#2980b9")
+      turtle.pencolor("#ff74ab")
       turtle.left(90)
       turtle.forward (100)
       turtle.right (50)
@@ -58,8 +51,8 @@ def drawMandala(n):
       turtle.left (45)
       turtle.forward (120)
 
+
+
+
 # Perform the main fucntion
 drawMandala(n)
-
-# Exit on user click.
-window.exitonclick()

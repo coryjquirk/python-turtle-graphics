@@ -12,6 +12,9 @@ one way to install tkinter:
 from there, run a file and enjoy as the drawing takes shape.
 
 ## drawings
+<strong>[spirograph](https://www.geeksforgeeks.org/print-a-spirograph-using-turtle-in-python/)</strong>  
+<img src="spirograph.PNG" height="450" alt="spirograph">
+
 <strong>[rainbow benzene](https://www.codium.co.in/2020/07/rainbow-benzene-tutorial-turtle-python.html)</strong>  
 <img src="rainbow-benzene.PNG" height="450" alt="rainbow benzene">
 
