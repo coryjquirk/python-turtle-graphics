@@ -26,4 +26,4 @@ from there, run a file and enjoy as the drawing takes shape.
 <img src="mandala.PNG" height="450" alt="mandala">
 
 ## credits  
-source code for each drawing linked above.  
+source code for each drawing linked above. I made variations to the Python source code for each file to produce a desired appearance.  
