@@ -12,7 +12,7 @@ one way to install tkinter:
 <img src="tkinter.PNG" height="135">  
 from there, run a file and enjoy as the drawing takes shape.
 
-## drawings
+## drawing examples  
 <strong>[spirograph](https://www.geeksforgeeks.org/print-a-spirograph-using-turtle-in-python/)</strong>  
 <img src="spirograph.PNG" height="450" alt="spirograph">
 
