@@ -2,9 +2,9 @@
 a modest collection of drawings made with Python's [Turtle](https://docs.python.org/3/library/turtle.html) module.  
 
 ## how to draw    
-to use the `turtle` module imported in each example's code, you must have [tkinter](https://docs.python.org/3/library/tkinter.html#module-tkinter) installed.  
-as of 30.03.2021, the Python 3.9.2 Windows installer includes tkinter by default. 
-one way to install tkinter: 
+to use the `turtle` module imported in each example's code, you must have [tkinter](https://docs.python.org/3/library/tkinter.html#module-tkinter) installed.    
+as of 30.03.2021, the Python 3.9.2 Windows installer includes tkinter by default.  
+one other way to install tkinter: 
 * open your Python 3 shell and write  
 ``>>> import tkinter``  
 ``>>> tkinter._test()``
